@@ -426,3 +426,10 @@ img{
 .work{
   text-align: left;
 }
+
+.hr {
+	border: dotted 4px;
+	border-bottom: none;
+	width 5%;
+	text-decoration: none;
+}
